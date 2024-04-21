@@ -1,0 +1,12 @@
+Show ID: s5432
+Type: Movie
+Show Title: The Russian Revolution
+Director: Cal Seville
+Cast: Jonathan Kydd
+Country: United Kingdom
+Date Added to netflix: June 15, 2017
+Release Year: 2017
+Rating: TV-PG
+Duration: 47 min
+Listed In: Documentaries
+Description: Starting in 1881, this film describes how the personal battle between the royal Romanovs and Lenin's Ulyanov family led to the Russian Revolution.

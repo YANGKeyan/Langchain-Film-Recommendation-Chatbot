@@ -1,0 +1,12 @@
+Show ID: s7835
+Type: Movie
+Show Title: Rats
+Director: Morgan Spurlock
+Cast: Unknown
+Country: United States
+Date Added to netflix: December 16, 2016
+Release Year: 2016
+Rating: NR
+Duration: 88 min
+Listed In: Documentaries
+Description: Explore the icky world of rats and witness how their talent for surviving in almost any environment has led to catastrophic events throughout history.

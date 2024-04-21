@@ -1,0 +1,12 @@
+Show ID: s390
+Type: Movie
+Show Title: The Operative
+Director: Yuval Adler
+Cast: Diane Kruger, Martin Freeman, Cas Anvar, Rotem Keinan, Yohanan Herson
+Country: France, Israel, Germany, United States, United Kingdom
+Date Added to netflix: July 27, 2021
+Release Year: 2019
+Rating: TV-MA
+Duration: 117 min
+Listed In: Dramas, International Movies, Thrillers
+Description: Working as a Mossad spy assigned to Tehran, Rachel reaches her breaking point. Now it’s dangerously hard to tell whose side she’s on.

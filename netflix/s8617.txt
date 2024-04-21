@@ -1,0 +1,12 @@
+Show ID: s8617
+Type: Movie
+Show Title: Transcendence
+Director: Wally Pfister
+Cast: Johnny Depp, Rebecca Hall, Morgan Freeman, Paul Bettany, Cillian Murphy, Kate Mara, Cole Hauser, Clifton Collins Jr.
+Country: United Kingdom, China, United States
+Date Added to netflix: November 1, 2018
+Release Year: 2014
+Rating: PG-13
+Duration: 119 min
+Listed In: Sci-Fi & Fantasy, Thrillers
+Description: Two computer scientists work to achieve technological singularity to create a world where computers can transcend the abilities of the human brain.

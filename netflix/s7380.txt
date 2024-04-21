@@ -1,0 +1,12 @@
+Show ID: s7380
+Type: Movie
+Show Title: Magnus
+Director: Benjamin Ree
+Cast: Magnus Carlsen
+Country: Norway
+Date Added to netflix: February 22, 2017
+Release Year: 2016
+Rating: TV-PG
+Duration: 75 min
+Listed In: Children & Family Movies, Documentaries, International Movies
+Description: This dramatic documentary explores the life and mind of Magnus Carlsen, the charismatic Norwegian prodigy who became world chess champion.

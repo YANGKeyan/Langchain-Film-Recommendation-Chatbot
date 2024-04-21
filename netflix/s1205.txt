@@ -1,0 +1,12 @@
+Show ID: s1205
+Type: Movie
+Show Title: The Last Blockbuster
+Director: Taylor Morden
+Cast: Unknown
+Country: United States
+Date Added to netflix: March 15, 2021
+Release Year: 2020
+Rating: TV-14
+Duration: 87 min
+Listed In: Documentaries
+Description: This nostalgic documentary reveals the real story of Blockbuster's demise, and how one last location in Oregon keeps the spirit of a bygone era alive.

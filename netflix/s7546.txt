@@ -1,0 +1,12 @@
+Show ID: s7546
+Type: Movie
+Show Title: My Scientology Movie
+Director: John Dower
+Cast: Louis Theroux
+Country: United Kingdom
+Date Added to netflix: July 13, 2017
+Release Year: 2015
+Rating: TV-MA
+Duration: 99 min
+Listed In: Documentaries
+Description: After speaking with former Scientology members and being stonewalled by higher-ups, filmmaker Louis Theroux hires actors to re-create alleged events.

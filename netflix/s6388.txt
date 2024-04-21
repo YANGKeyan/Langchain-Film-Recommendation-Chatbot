@@ -1,0 +1,12 @@
+Show ID: s6388
+Type: Movie
+Show Title: Bugs
+Director: Andreas Johnsen
+Cast: Unknown
+Country: Netherlands, Denmark, France, Germany
+Date Added to netflix: February 20, 2018
+Release Year: 2016
+Rating: TV-G
+Duration: 73 min
+Listed In: Documentaries, International Movies
+Description: A willing team of chefs and researchers goes on a gastronomic adventure around the globe to weigh the benefits of using bugs as a future food source.

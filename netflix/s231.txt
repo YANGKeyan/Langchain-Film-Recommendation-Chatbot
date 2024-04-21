@@ -1,0 +1,12 @@
+Show ID: s231
+Type: Movie
+Show Title: The River Runner
+Director: Rush Sturges
+Cast: Unknown
+Country: Unknown
+Date Added to netflix: August 25, 2021
+Release Year: 2021
+Rating: TV-MA
+Duration: 86 min
+Listed In: Documentaries, Sports Movies
+Description: In this documentary, a kayaker sets out to become the first man to paddle the four great rivers that flow from Tibet's sacred Mount Kailash.

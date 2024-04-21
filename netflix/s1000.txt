@@ -1,0 +1,12 @@
+Show ID: s1000
+Type: Movie
+Show Title: Stowaway
+Director: Joe Penna
+Cast: Anna Kendrick, Toni Collette, Daniel Dae Kim, Shamier Anderson
+Country: Germany, United States
+Date Added to netflix: April 22, 2021
+Release Year: 2021
+Rating: TV-MA
+Duration: 116 min
+Listed In: Dramas, International Movies, Thrillers
+Description: A three-person crew on a mission to Mars faces an impossible choice when an unplanned passenger jeopardizes the lives of everyone on board.

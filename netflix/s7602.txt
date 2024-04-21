@@ -1,0 +1,12 @@
+Show ID: s7602
+Type: Movie
+Show Title: NOVA: Building Chernobyl's MegaTomb
+Director: Martin Gorst
+Cast: Eric Meyers
+Country: United States
+Date Added to netflix: July 1, 2019
+Release Year: 2017
+Rating: TV-PG
+Duration: 53 min
+Listed In: Documentaries
+Description: Thirty years after Chernobyl’s nuclear disaster, engineers race against time to complete a new dome to contain the reactor’s lethal radiation.

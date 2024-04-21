@@ -1,0 +1,12 @@
+Show ID: s1098
+Type: Movie
+Show Title: Coded Bias
+Director: Shalini Kantayya
+Cast: Unknown
+Country: United States, China, United Kingdom
+Date Added to netflix: April 5, 2021
+Release Year: 2020
+Rating: TV-MA
+Duration: 86 min
+Listed In: Documentaries
+Description: This documentary investigates the bias in algorithms after M.I.T. Media Lab researcher Joy Buolamwini uncovered flaws in facial recognition technology.

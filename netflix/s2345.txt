@@ -1,0 +1,12 @@
+Show ID: s2345
+Type: Movie
+Show Title: Nobody Knows I'm Here
+Director: Gaspar Antillo
+Cast: Jorge García, Millaray Lobos, Luis Gnecco, Alejandro Goic, Gastón Pauls, Eduardo Paxeco
+Country: Chile
+Date Added to netflix: June 24, 2020
+Release Year: 2020
+Rating: TV-MA
+Duration: 92 min
+Listed In: Dramas, Independent Movies, International Movies
+Description: A former child singer, traumatized by his experiences, becomes a recluse, nurturing his hurt until a woman comes into his life and really hears him.

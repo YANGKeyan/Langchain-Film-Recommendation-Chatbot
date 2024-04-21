@@ -1,0 +1,12 @@
+Show ID: s1122
+Type: Movie
+Show Title: Legally Blonde
+Director: Robert Luketic
+Cast: Reese Witherspoon, Luke Wilson, Selma Blair, Matthew Davis, Victor Garber, Jennifer Coolidge
+Country: United States
+Date Added to netflix: April 1, 2021
+Release Year: 2001
+Rating: PG-13
+Duration: 96 min
+Listed In: Comedies, Romantic Movies
+Description: When dazzling L.A. sorority girl Elle Woods gets dumped by her snobby boyfriend, she decides to win him back by following him to Harvard Law School.

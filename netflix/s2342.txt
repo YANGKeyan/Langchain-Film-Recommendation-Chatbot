@@ -1,0 +1,12 @@
+Show ID: s2342
+Type: Movie
+Show Title: Athlete A
+Director: Bonni Cohen, Jon Shenk
+Cast: Unknown
+Country: United States
+Date Added to netflix: June 24, 2020
+Release Year: 2020
+Rating: PG-13
+Duration: 104 min
+Listed In: Documentaries, Sports Movies
+Description: This documentary focuses on the gymnasts who survived USA Gymnastics doctor Larry Nassar's abuse and the reporters who exposed USAG's toxic culture.

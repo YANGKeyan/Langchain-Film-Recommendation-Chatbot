@@ -1,0 +1,12 @@
+Show ID: s8020
+Type: Movie
+Show Title: Silicon Cowboys
+Director: Jason Cohen
+Cast: Unknown
+Country: United States
+Date Added to netflix: April 1, 2017
+Release Year: 2016
+Rating: TV-PG
+Duration: 77 min
+Listed In: Documentaries
+Description: This documentary tells the story of Compaq Computer and its three founders, who in 1982, took on Goliath IBM at the height of its PC dominance.

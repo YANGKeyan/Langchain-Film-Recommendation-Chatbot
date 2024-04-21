@@ -1,0 +1,12 @@
+Show ID: s8765
+Type: Movie
+Show Title: Wyatt Earp
+Director: Lawrence Kasdan
+Cast: Kevin Costner, Dennis Quaid, Gene Hackman, David Andrews, Linden Ashby, Jeff Fahey, Joanna Going, Mark Harmon, Michael Madsen, Catherine O'Hara, Bill Pullman, Isabella Rossellini, Tom Sizemore
+Country: United States
+Date Added to netflix: January 1, 2020
+Release Year: 1994
+Rating: PG-13
+Duration: 191 min
+Listed In: Action & Adventure
+Description: Legendary lawman Wyatt Earp is continually at odds with a gang of renegade cowboys, culminating in a fiery showdown with the outlaws at the OK Corral.

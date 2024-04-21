@@ -1,0 +1,12 @@
+Show ID: s1912
+Type: Movie
+Show Title: Human Nature
+Director: Adam Bolt
+Cast: Unknown
+Country: United States
+Date Added to netflix: October 1, 2020
+Release Year: 2019
+Rating: TV-14
+Duration: 95 min
+Listed In: Documentaries
+Description: From breakthrough science to the boundaries of morality, this documentary spotlights a revelation in genetic modification research known as CRISPR.

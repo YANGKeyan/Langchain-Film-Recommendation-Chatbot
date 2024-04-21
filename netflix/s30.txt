@@ -1,0 +1,12 @@
+Show ID: s30
+Type: Movie
+Show Title: Paranoia
+Director: Robert Luketic
+Cast: Liam Hemsworth, Gary Oldman, Amber Heard, Harrison Ford, Lucas Till, Embeth Davidtz, Julian McMahon, Josh Holloway, Richard Dreyfuss, Angela Sarafyan
+Country: United States, India, France
+Date Added to netflix: September 19, 2021
+Release Year: 2013
+Rating: PG-13
+Duration: 106 min
+Listed In: Thrillers
+Description: Blackmailed by his company's CEO, a low-level employee finds himself forced to spy on the boss's rival and former mentor.

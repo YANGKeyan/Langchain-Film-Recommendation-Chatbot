@@ -1,0 +1,12 @@
+Show ID: s1500
+Type: Movie
+Show Title: The Midnight Sky
+Director: George Clooney
+Cast: George Clooney, Felicity Jones, Kyle Chandler, Demián Bichir, David Oyelowo, Tiffany Boone, Caoilinn Springall, Sophie Rundle, Ethan Peck
+Country: United States
+Date Added to netflix: December 23, 2020
+Release Year: 2020
+Rating: PG-13
+Duration: 119 min
+Listed In: Dramas
+Description: In the aftermath of a global catastrophe, a lone scientist in the Arctic races to contact a crew of astronauts with a warning not to return to Earth.

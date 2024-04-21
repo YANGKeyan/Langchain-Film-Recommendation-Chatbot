@@ -1,0 +1,12 @@
+Show ID: s5000
+Type: Movie
+Show Title: Expedition China
+Director: Ben Wallis
+Cast: Maggie Q
+Country: Unknown
+Date Added to netflix: March 4, 2018
+Release Year: 2017
+Rating: TV-G
+Duration: 78 min
+Listed In: Children & Family Movies, Documentaries
+Description: Cinematographers visit the remote forests and mountains of China in hopes of capturing footage of pandas, monkeys, red-crowned cranes and more.

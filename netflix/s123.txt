@@ -1,0 +1,12 @@
+Show ID: s123
+Type: Movie
+Show Title: In the Cut
+Director: Jane Campion
+Cast: Meg Ryan, Mark Ruffalo, Jennifer Jason Leigh, Nick Damici, Sharrieff Pugh, Kevin Bacon, Yaani King Mondschein, Heather Litteer
+Country: United Kingdom, Australia, France, United States
+Date Added to netflix: September 2, 2021
+Release Year: 2003
+Rating: R
+Duration: 118 min
+Listed In: Thrillers
+Description: After embarking on an affair with the cop probing the murder of a young woman, an insular schoolteacher suspects her lover was involved in the crime.

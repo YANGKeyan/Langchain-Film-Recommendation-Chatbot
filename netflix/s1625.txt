@@ -1,0 +1,12 @@
+Show ID: s1625
+Type: Movie
+Show Title: The Da Vinci Code
+Director: Ron Howard
+Cast: Tom Hanks, Audrey Tautou, Ian McKellen, Jean Reno, Paul Bettany, Alfred Molina, Jürgen Prochnow, Jean-Yves Berteloot, Etienne Chicot, Jean-Pierre Marielle
+Country: United States, Malta, France, United Kingdom
+Date Added to netflix: December 1, 2020
+Release Year: 2006
+Rating: PG-13
+Duration: 149 min
+Listed In: Thrillers
+Description: When the curator of the Louvre is killed, a Harvard professor and a cryptographer must untangle a web of deceit involving works of Leonardo da Vinci.

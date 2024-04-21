@@ -1,0 +1,12 @@
+Show ID: s7038
+Type: Movie
+Show Title: I Am Jane Doe
+Director: Mary Mazzio
+Cast: Jessica Chastain
+Country: United States
+Date Added to netflix: May 26, 2017
+Release Year: 2017
+Rating: TV-14
+Duration: 98 min
+Listed In: Documentaries
+Description: This intense documentary follows real cases of American girls enslaved in the child sex trade through ads in a newspaper's online classified section.

@@ -1,0 +1,12 @@
+Show ID: s595
+Type: Movie
+Show Title: Star Trek
+Director: J.J. Abrams
+Cast: Chris Pine, Zachary Quinto, Karl Urban, Zoe Saldana, Simon Pegg, John Cho, Anton Yelchin, Eric Bana, Leonard Nimoy, Bruce Greenwood, Ben Cross, Winona Ryder
+Country: United States, Germany
+Date Added to netflix: July 1, 2021
+Release Year: 2009
+Rating: PG-13
+Duration: 128 min
+Listed In: Action & Adventure, Sci-Fi & Fantasy
+Description: On their first voyage aboard the starship Enterprise, cocky rebel James T. Kirk and logic-driven Vulcan Spock try to defeat a vengeful Romulan commander.

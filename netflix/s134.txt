@@ -1,0 +1,12 @@
+Show ID: s134
+Type: Movie
+Show Title: Chappie
+Director: Neill Blomkamp
+Cast: Sharlto Copley, Hugh Jackman, Sigourney Weaver, Dev Patel, Ninja, Yo-Landi Visser, Jose Pablo Cantillo, Brandon Auret, Johnny Selema, Maurice Carpede
+Country: South Africa, United States
+Date Added to netflix: September 1, 2021
+Release Year: 2015
+Rating: R
+Duration: 121 min
+Listed In: Action & Adventure, Sci-Fi & Fantasy
+Description: In a futuristic society where an indestructible robot police force keeps crime at bay, a lone droid evolves to the next level of artificial intelligence.

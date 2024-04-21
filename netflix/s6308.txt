@@ -1,0 +1,12 @@
+Show ID: s6308
+Type: Movie
+Show Title: Big Time
+Director: Kaspar Astrup Schröder
+Cast: Bjarke Ingels
+Country: Denmark
+Date Added to netflix: April 1, 2018
+Release Year: 2017
+Rating: TV-MA
+Duration: 90 min
+Listed In: Documentaries
+Description: In this documentary, architect Bjarke Ingels offers his vision for 2 World Trade Center as he aims to restore Manhattan's skyline to its former glory.

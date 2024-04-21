@@ -1,0 +1,12 @@
+Show ID: s500
+Type: TV Show
+Show Title: Dogs
+Director: Unknown
+Cast: Unknown
+Country: United States
+Date Added to netflix: July 7, 2021
+Release Year: 2021
+Rating: TV-PG
+Duration: 2 Seasons
+Listed In: Docuseries
+Description: These six intimate stories explore the abiding emotional bonds that form between dogs and their caregivers, no matter the circumstances.

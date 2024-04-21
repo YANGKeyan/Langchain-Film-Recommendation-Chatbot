@@ -1,0 +1,12 @@
+Show ID: s1
+Type: Movie
+Show Title: Dick Johnson Is Dead
+Director: Kirsten Johnson
+Cast: Unknown
+Country: United States
+Date Added to netflix: September 25, 2021
+Release Year: 2020
+Rating: PG-13
+Duration: 90 min
+Listed In: Documentaries
+Description: As her father nears the end of his life, filmmaker Kirsten Johnson stages his death in inventive and comical ways to help them both face the inevitable.

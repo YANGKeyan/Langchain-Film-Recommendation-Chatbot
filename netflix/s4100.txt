@@ -1,0 +1,12 @@
+Show ID: s4100
+Type: Movie
+Show Title: Behind the Curve
+Director: Daniel J. Clark
+Cast: Unknown
+Country: United States
+Date Added to netflix: February 15, 2019
+Release Year: 2018
+Rating: TV-14
+Duration: 96 min
+Listed In: Documentaries
+Description: Meet the growing, worldwide community of theorists who defend the belief that the Earth is flat while living in a society who vehemently rejects it.

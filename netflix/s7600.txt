@@ -1,0 +1,12 @@
+Show ID: s7600
+Type: Movie
+Show Title: NOVA: Bird Brain
+Director: Unknown
+Cast: Craig Sechler
+Country: United States
+Date Added to netflix: July 1, 2019
+Release Year: 2017
+Rating: TV-G
+Duration: 53 min
+Listed In: Children & Family Movies, Documentaries
+Description: Scientists test avian aptitude and challenge concepts of intelligence with examples ranging from puzzle-solving crows to parrots with a sense of time.

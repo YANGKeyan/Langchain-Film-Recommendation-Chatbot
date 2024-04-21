@@ -1,0 +1,12 @@
+Show ID: s6916
+Type: Movie
+Show Title: Hangman
+Director: Johnny Martin
+Cast: Al Pacino, Karl Urban, Brittany Snow, Joe Anderson, Sarah Shahi, Sloane Warren, Chelle Ramos, Steve Coulter, Michael Rose
+Country: United States
+Date Added to netflix: May 6, 2020
+Release Year: 2017
+Rating: R
+Duration: 99 min
+Listed In: Thrillers
+Description: A homicide detective, a criminal profiler and a journalist team up to nab a serial killer whose murders are inspired by the classic game of Hangman.

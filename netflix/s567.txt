@@ -1,0 +1,12 @@
+Show ID: s567
+Type: Movie
+Show Title: Charlie's Angels
+Director: McG
+Cast: Cameron Diaz, Drew Barrymore, Lucy Liu, Bill Murray, Sam Rockwell, Kelly Lynch, Tim Curry, Crispin Glover, Matt LeBlanc, LL Cool J, Tom Green, Luke Wilson
+Country: United States, Germany
+Date Added to netflix: July 1, 2021
+Release Year: 2000
+Rating: PG-13
+Duration: 98 min
+Listed In: Action & Adventure, Comedies
+Description: A tight-knit trio of specially trained agents wield weapons — and charm — as they track down stolen software in this reboot of the classic TV series.

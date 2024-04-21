@@ -1,0 +1,12 @@
+Show ID: s1001
+Type: Movie
+Show Title: Wild Dog
+Director: Ahishor Solomon
+Cast: Nagarjuna Akkineni, Dia Mirza, Saiyami Kher, Atul Kulakarni, Bilal Hussain, Ali Reza, Mayank Parakh
+Country: Unknown
+Date Added to netflix: April 22, 2021
+Release Year: 2020
+Rating: TV-MA
+Duration: 126 min
+Listed In: Action & Adventure, International Movies
+Description: A brash but brilliant Indian intelligence agent leads a covert operation to nab the mastermind behind a series of attacks threatening national security.

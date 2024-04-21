@@ -1,0 +1,12 @@
+Show ID: s1465
+Type: Movie
+Show Title: The Creative Brain
+Director: Jennifer Beamish, Toby Trackman
+Cast: David Eagleman
+Country: United States
+Date Added to netflix: January 1, 2021
+Release Year: 2019
+Rating: TV-14
+Duration: 53 min
+Listed In: Documentaries
+Description: Neuroscientist David Eagleman taps into the creative process of various innovators while exploring brain-bending, risk-taking ways to spark creativity.

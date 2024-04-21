@@ -1,0 +1,12 @@
+Show ID: s6816
+Type: Movie
+Show Title: Functional Fitness
+Director: Bob Rose
+Cast: Unknown
+Country: United States
+Date Added to netflix: January 1, 2018
+Release Year: 2016
+Rating: TV-MA
+Duration: 106 min
+Listed In: Documentaries
+Description: This documentary explores the challenging, transformative world of high-intensity fitness programs through the eyes of the people who've embraced them.

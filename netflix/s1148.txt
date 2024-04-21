@@ -1,0 +1,12 @@
+Show ID: s1148
+Type: Movie
+Show Title: Not a Game
+Director: Jose Gomez
+Cast: Brendon Mcdonnell
+Country: United Kingdom
+Date Added to netflix: March 31, 2021
+Release Year: 2020
+Rating: TV-MA
+Duration: 98 min
+Listed In: Documentaries, International Movies, Sports Movies
+Description: This documentary offers an honest look at our fraught, complex relationship to video games from the perspectives of gamers and their concerned parents.

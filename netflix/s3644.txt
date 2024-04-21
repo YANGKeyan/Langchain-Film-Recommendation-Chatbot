@@ -1,0 +1,12 @@
+Show ID: s3644
+Type: Movie
+Show Title: The Great Hack
+Director: Karim Amer, Jehane Noujaim
+Cast: Unknown
+Country: United States
+Date Added to netflix: July 24, 2019
+Release Year: 2019
+Rating: TV-MA
+Duration: 114 min
+Listed In: Documentaries
+Description: Explore how a data company named Cambridge Analytica came to symbolize the dark side of social media in the wake of the 2016 U.S. presidential election.
